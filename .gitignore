@@ -17,3 +17,4 @@ tags.*
 .bash_history
 coverage/
 .pnp.*
+.file_activity_report.json
